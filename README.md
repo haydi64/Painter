@@ -1,3 +1,3 @@
 # Painter
-Creates a graphical and click based painting application 
+Creates a graphical and click based painting application. 
 School project 
